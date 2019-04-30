@@ -1,0 +1,19 @@
+{
+  "title": "硬件和嵌入式通用逻辑知识概念",
+  "description": "整理硬件和嵌入式领域内的通用的知识、背景、逻辑、概念。包括但不限于常见的名词和概念，常见零部件，常见封装类型，BOM，PCB电路板，音频知识，电源管理知识，以及各种名词和概念的详细解释和举例。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "common_logic_hardware_embedded"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/common_logic_hardware_embedded/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/common_logic_hardware_embedded/pdf/common_logic_hardware_embedded.pdf"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+# 硬件和嵌入式通用逻辑知识概念
+
+* [前言](README.md)
+* [简介](intro/README.md)
+* [硬件和嵌入式通用知识](hardware_embedded_common/README.md)
+  * [常见名词概念](hardware_embedded_common/terminology_concept.md)
+  * [工作环境](hardware_embedded_common/working_environment.md)
+* [硬件通用知识](hardware_common/README.md)
+  * [常见零部件](hardware_common/common_part_component.md)
+  * [常见封装类型](hardware_common/common_package.md)
+  * [BOM物料清单](hardware_common/bom.md)
+  * [PCB电路板](hardware_common/pcb_board/README.md)
+    * [PCB和芯片设计](hardware_common/pcb_board/design_pcb_ic.md)
+  * [音频知识](hardware_common/audio_knowledge.md)
+  * [电源管理知识](hardware_common/power_management_knowledge.md)
+* [嵌入式通用知识](embedded_common/README.md)
+* [附录](appendix/README.md)
+  * [参考资料](appendix/reference.md)
